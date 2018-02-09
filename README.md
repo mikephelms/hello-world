@@ -7,10 +7,3 @@ To learn more about the power of Pull Requests, we recommend reading the GitHub 
 
 Tip: Check out our other Guides, YouTube Channel and On-Demand Training for more on how to get started with GitHub.
 
-http://guides.github.com/overviews/flow/
-
-http://github.com/explore
-
-http://youtube.com/githubguides
-
-https://services.github.com/on-demand/
